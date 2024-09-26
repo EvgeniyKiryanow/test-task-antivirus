@@ -397,6 +397,7 @@ header p {
 @media (max-width: 770px) {
   .item-list {
     padding-top: 0;
+    padding-bottom: 50px;
   }
   .item-list-wrapper {
     min-height: unset;
